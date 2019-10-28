@@ -1,0 +1,2 @@
+data.csv按照一下格式填入参数，一共13个：
+custNo,custType,custName,cardType,cardNo,ruleTime,reqFlow,groupCode,healthStatus,isHaveShop,shopYear,assetsHouse,assetsCar
